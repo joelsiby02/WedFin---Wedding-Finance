@@ -5,7 +5,7 @@ import { useRouter } from 'next/navigation'
 
 // High-quality wedding stock images from Unsplash
 const WEDDING_IMAGES = [
-    'https://images.unsplash.com/photo-1519741644990-e0a6a5d13d8a?w=600&h=800&fit=crop&auto=format',
+    '/photos/wed2.jpg',
     'https://images.unsplash.com/photo-1606800052052-a08af7148866?w=600&h=800&fit=crop&auto=format',
     'https://images.unsplash.com/photo-1591604466107-ec97de577aff?w=600&h=800&fit=crop&auto=format',
     'https://images.unsplash.com/photo-1519225421980-715cb0215aed?w=600&h=800&fit=crop&auto=format',
