@@ -53,7 +53,7 @@ export default function RootLayout({
                             <div>
                                 <h3>Contact</h3>
                                 <p>Email: support@wedfin.com</p>
-                                <p>Phone: +91 98765 43210</p>
+                                <p>Phone: +91 79077 11411</p>
                             </div>
                         </div>
                         <div className="footer-bottom">

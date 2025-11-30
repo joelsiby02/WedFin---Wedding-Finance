@@ -123,7 +123,7 @@ export default function ThankYou() {
                     <p className="text-gray-600">
                         Questions? Call us at{' '}
                         <a href="tel:+919876543210" className="font-semibold text-primary-500 hover:text-primary-600">
-                            +91 98765 43210
+                            +91 79077 11411
                         </a>
                     </p>
                 </div>
